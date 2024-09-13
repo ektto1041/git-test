@@ -1,5 +1,4 @@
 # git-test
 
 abc
-
 bcd
